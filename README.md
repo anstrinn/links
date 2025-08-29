@@ -49,7 +49,7 @@ You can locally run your webpage by running the following command in the root di
 python -m http.server 8080
 ```
 
-Or, perhaps, you want to host it. If so, you can fork it and make the necessary changes, and then use Github Pages to host it as this [demo](https://anstrinn.github.io/links/).
+Or, perhaps, you want to host it. If so, you can fork it and make the necessary changes, and then use Github Pages to host it as this [demo](https://aocoronel.github.io/links/).
 
 ## Future Plans
 
